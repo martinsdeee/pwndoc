@@ -1,9 +1,9 @@
 {
     "cvss_colors" : {
         "none_color" : "4A86E8",
-        "low_color" : "008000",
-        "medium_color" : "f9a009",
-        "high_color" : "fe0000",
-        "critical_color" : "212121" 
+        "low_color" : "92D050",
+        "medium_color" : "FFC000",
+        "high_color" : "FF0000",
+        "critical_color" : "3A2B50" 
     }
 }
